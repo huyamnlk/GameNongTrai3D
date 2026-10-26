@@ -38,3 +38,7 @@ Desktop.ini
 farm_save_backup.json
 farm_save_backup.json.safecopy
 farm_save_golden_backup.json
+
+# Historical backups and quarantined review material
+/_Archive/
+/_Quarantine_Review/
