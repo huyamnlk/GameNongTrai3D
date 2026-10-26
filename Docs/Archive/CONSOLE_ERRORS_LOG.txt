@@ -1,0 +1,142 @@
+=================== FILE: D:\GameNongTrai3D\Logs\Editor.log ===================
+=================== FILE: D:\GameNongTrai3D\Logs\Editor-prev.log ===================
+Line 336 : Google.JarResolver.ResolutionException: Cannot find candidate artifact for com.google.android.gms:play-services-games:8.4+
+     at Google.JarResolver.PlayServicesSupport.DependOn (System.String group, System.String artifact, System.String version) [0x0004b] in <35a09b6d9e5f4eeb95564615f563183b>:0 
+     at GooglePlayGames.Editor.GPGSDependencies..cctor () [0x00023] in D:\GameNongTrai3D\Assets\GooglePlayGames\Editor\GPGSDependencies.cs:46 
+   UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+   UnityEngine.StackTraceUtility:ExtractStackTrace ()
+   UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+   UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+   UnityEngine.Logger:Log (UnityEngine.LogType,object)
+   UnityEngine.Debug:LogError (object)
+--------------------------------------------------
+Line 646 : Google.JarResolver.ResolutionException: Cannot find candidate artifact for com.google.android.gms:play-services-games:8.4+
+     at Google.JarResolver.PlayServicesSupport.DependOn (System.String group, System.String artifact, System.String version) [0x0004b] in <35a09b6d9e5f4eeb95564615f563183b>:0 
+     at GooglePlayGames.Editor.GPGSDependencies..cctor () [0x00023] in D:\GameNongTrai3D\Assets\GooglePlayGames\Editor\GPGSDependencies.cs:46 
+   UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+   UnityEngine.StackTraceUtility:ExtractStackTrace ()
+   UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+   UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+   UnityEngine.Logger:Log (UnityEngine.LogType,object)
+   UnityEngine.Debug:LogError (object)
+--------------------------------------------------
+Line 1362 : A GameObject can only contain one 'Graphic' component.
+   UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+   UnityEngine.StackTraceUtility:ExtractStackTrace ()
+   UnityEngine.GameObject:Internal_AddComponentWithType (System.Type)
+   UnityEngine.GameObject:AddComponent (System.Type)
+   UnityEngine.GameObject:AddComponent<UnityEngine.UI.Text> ()
+   IrishFarmSim.ProgressionUI:EnsureUI () (at Assets/Scripts/Progression/ProgressionUI.cs:192)
+   IrishFarmSim.FarmUI:Start () (at Assets/Scripts/Scenes/Farm/FarmUI.cs:76)
+   
+--------------------------------------------------
+Line 1373 : Error initializing farm gameplay: System.NullReferenceException: Object reference not set to an instance of an object
+     at IrishFarmSim.ProgressionUI.EnsureUI () [0x001e8] in D:\GameNongTrai3D\Assets\Scripts\Progression\ProgressionUI.cs:193 
+     at IrishFarmSim.FarmUI.Start () [0x0002a] in D:\GameNongTrai3D\Assets\Scripts\Scenes\Farm\FarmUI.cs:76 
+   UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+   UnityEngine.StackTraceUtility:ExtractStackTrace ()
+   UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+   UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+   UnityEngine.Logger:Log (UnityEngine.LogType,object)
+   UnityEngine.Debug:Log (object)
+--------------------------------------------------
+Line 2503 : Google.JarResolver.ResolutionException: Cannot find candidate artifact for com.google.android.gms:play-services-games:8.4+
+     at Google.JarResolver.PlayServicesSupport.DependOn (System.String group, System.String artifact, System.String version) [0x0004b] in <35a09b6d9e5f4eeb95564615f563183b>:0 
+     at GooglePlayGames.Editor.GPGSDependencies..cctor () [0x00023] in D:\GameNongTrai3D\Assets\GooglePlayGames\Editor\GPGSDependencies.cs:46 
+   UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+   UnityEngine.StackTraceUtility:ExtractStackTrace ()
+   UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+   UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+   UnityEngine.Logger:Log (UnityEngine.LogType,object)
+   UnityEngine.Debug:LogError (object)
+--------------------------------------------------
+Line 2667 : Google.JarResolver.ResolutionException: Cannot find candidate artifact for com.google.android.gms:play-services-games:8.4+
+     at Google.JarResolver.PlayServicesSupport.DependOn (System.String group, System.String artifact, System.String version) [0x0004b] in <35a09b6d9e5f4eeb95564615f563183b>:0 
+     at GooglePlayGames.Editor.GPGSDependencies..cctor () [0x00023] in D:\GameNongTrai3D\Assets\GooglePlayGames\Editor\GPGSDependencies.cs:46 
+   UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+   UnityEngine.StackTraceUtility:ExtractStackTrace ()
+   UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+   UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+   UnityEngine.Logger:Log (UnityEngine.LogType,object)
+   UnityEngine.Debug:LogError (object)
+--------------------------------------------------
+Line 3271 : A GameObject can only contain one 'Graphic' component.
+   UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+   UnityEngine.StackTraceUtility:ExtractStackTrace ()
+   UnityEngine.GameObject:Internal_AddComponentWithType (System.Type)
+   UnityEngine.GameObject:AddComponent (System.Type)
+   UnityEngine.GameObject:AddComponent<UnityEngine.UI.Text> ()
+   IrishFarmSim.ProgressionUI:EnsureUI () (at Assets/Scripts/Progression/ProgressionUI.cs:192)
+   IrishFarmSim.FarmUI:Start () (at Assets/Scripts/Scenes/Farm/FarmUI.cs:76)
+   
+--------------------------------------------------
+Line 3282 : Error initializing farm gameplay: System.NullReferenceException: Object reference not set to an instance of an object
+     at IrishFarmSim.ProgressionUI.EnsureUI () [0x001e8] in D:\GameNongTrai3D\Assets\Scripts\Progression\ProgressionUI.cs:193 
+     at IrishFarmSim.FarmUI.Start () [0x0002a] in D:\GameNongTrai3D\Assets\Scripts\Scenes\Farm\FarmUI.cs:76 
+   UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+   UnityEngine.StackTraceUtility:ExtractStackTrace ()
+   UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+   UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+   UnityEngine.Logger:Log (UnityEngine.LogType,object)
+   UnityEngine.Debug:Log (object)
+--------------------------------------------------
+Line 7501 : Google.JarResolver.ResolutionException: Cannot find candidate artifact for com.google.android.gms:play-services-games:8.4+
+     at Google.JarResolver.PlayServicesSupport.DependOn (System.String group, System.String artifact, System.String version) [0x0004b] in <35a09b6d9e5f4eeb95564615f563183b>:0 
+     at GooglePlayGames.Editor.GPGSDependencies..cctor () [0x00023] in D:\GameNongTrai3D\Assets\GooglePlayGames\Editor\GPGSDependencies.cs:46 
+   UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+   UnityEngine.StackTraceUtility:ExtractStackTrace ()
+   UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+   UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+   UnityEngine.Logger:Log (UnityEngine.LogType,object)
+   UnityEngine.Debug:LogError (object)
+--------------------------------------------------
+Line 7885 : Google.JarResolver.ResolutionException: Cannot find candidate artifact for com.google.android.gms:play-services-games:8.4+
+     at Google.JarResolver.PlayServicesSupport.DependOn (System.String group, System.String artifact, System.String version) [0x0004b] in <35a09b6d9e5f4eeb95564615f563183b>:0 
+     at GooglePlayGames.Editor.GPGSDependencies..cctor () [0x00023] in D:\GameNongTrai3D\Assets\GooglePlayGames\Editor\GPGSDependencies.cs:46 
+   UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+   UnityEngine.StackTraceUtility:ExtractStackTrace ()
+   UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+   UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+   UnityEngine.Logger:Log (UnityEngine.LogType,object)
+   UnityEngine.Debug:LogError (object)
+--------------------------------------------------
+Line 8457 : A GameObject can only contain one 'Graphic' component.
+   UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+   UnityEngine.StackTraceUtility:ExtractStackTrace ()
+   UnityEngine.GameObject:Internal_AddComponentWithType (System.Type)
+   UnityEngine.GameObject:AddComponent (System.Type)
+   UnityEngine.GameObject:AddComponent<UnityEngine.UI.Text> ()
+   IrishFarmSim.ProgressionUI:EnsureUI () (at Assets/Scripts/Progression/ProgressionUI.cs:192)
+   IrishFarmSim.FarmUI:Start () (at Assets/Scripts/Scenes/Farm/FarmUI.cs:76)
+   
+--------------------------------------------------
+Line 8468 : Error initializing farm gameplay: System.NullReferenceException: Object reference not set to an instance of an object
+     at IrishFarmSim.ProgressionUI.EnsureUI () [0x001e8] in D:\GameNongTrai3D\Assets\Scripts\Progression\ProgressionUI.cs:193 
+     at IrishFarmSim.FarmUI.Start () [0x0002a] in D:\GameNongTrai3D\Assets\Scripts\Scenes\Farm\FarmUI.cs:76 
+   UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+   UnityEngine.StackTraceUtility:ExtractStackTrace ()
+   UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+   UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+   UnityEngine.Logger:Log (UnityEngine.LogType,object)
+   UnityEngine.Debug:Log (object)
+--------------------------------------------------
+Line 14905 : A GameObject can only contain one 'Graphic' component.
+   UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+   UnityEngine.StackTraceUtility:ExtractStackTrace ()
+   UnityEngine.GameObject:Internal_AddComponentWithType (System.Type)
+   UnityEngine.GameObject:AddComponent (System.Type)
+   UnityEngine.GameObject:AddComponent<UnityEngine.UI.Text> ()
+   IrishFarmSim.BuildingUI:BuildUIStructure (UnityEngine.GameObject) (at Assets/Scripts/Buildings/BuildingUI.cs:116)
+   IrishFarmSim.BuildingUI:EnsureUI () (at Assets/Scripts/Buildings/BuildingUI.cs:52)
+   IrishFarmSim.FarmUI:Start () (at Assets/Scripts/Scenes/Farm/FarmUI.cs:80)
+--------------------------------------------------
+Line 14917 : Error initializing farm gameplay: System.NullReferenceException: Object reference not set to an instance of an object
+     at IrishFarmSim.BuildingUI.BuildUIStructure (UnityEngine.GameObject canvasGo) [0x00329] in D:\GameNongTrai3D\Assets\Scripts\Buildings\BuildingUI.cs:117 
+     at IrishFarmSim.BuildingUI.EnsureUI () [0x00087] in D:\GameNongTrai3D\Assets\Scripts\Buildings\BuildingUI.cs:52 
+     at IrishFarmSim.FarmUI.Start () [0x00042] in D:\GameNongTrai3D\Assets\Scripts\Scenes\Farm\FarmUI.cs:80 
+   UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+   UnityEngine.StackTraceUtility:ExtractStackTrace ()
+   UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+   UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+   UnityEngine.Logger:Log (UnityEngine.LogType,object)
+--------------------------------------------------
